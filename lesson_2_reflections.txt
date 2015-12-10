@@ -21,3 +21,16 @@ What are some situations when branches would be helpful in keeping your history 
 	master copy of the project in case they are experimental. It allows for multiple copies of the same
 	files.
 	
+How do the diagrams help you visualize the branch structure?
+
+	The diagrams show the connections between commits.
+	
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result is one commit that contains the changes of each of the merging branches. It is represented
+	to make it visually easy to follow.
+	
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros: makes it easy and quick; Cons: have to double check for errors
+	
