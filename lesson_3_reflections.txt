@@ -15,3 +15,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	the repository that are moved to a local repository. Forks are similiar to clones, except that they
 	remain on GitHub.
 	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	It allows for one to make changes  on the local repository, even if the user will be offline.
