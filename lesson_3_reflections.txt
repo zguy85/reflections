@@ -9,3 +9,9 @@ Why might you want to always pull changes manually rather than having Git automa
 	You may have a commit that was added that you are unaware off (from a coworker) that
 	may change part of the master copy.
 	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Branches allow for one to work on files without changing the master branch. Clones are copies of
+	the repository that are moved to a local repository. Forks are similiar to clones, except that they
+	remain on GitHub.
+	
